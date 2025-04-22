@@ -1,0 +1,7 @@
+
+# Jogo Jokenpô
+### Utilizando conceitos básicos de python
+
+Jogo Pedra, papel ou tesoura feito em python com 3 modalidades, feito por Andrey Brawerman, João Esperança e Lucas Girata.
+Sistemas de Informação| 1° Período | PUC-PR
+
